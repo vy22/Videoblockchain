@@ -1,0 +1,17 @@
+{
+  "name": "video-chain",
+  "version": "1.0.0",
+  "description": "my masters degree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffprobe-installer/ffprobe": "^1.0.9",
+    "fluent-ffmpeg": "^2.1.2",
+    "request": "^2.88.0"
+  }
+}
